@@ -25,7 +25,7 @@ This repository contains my completed cybersecurity awareness tasks assigned dur
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Dyeslexic/RD-INFRO-TECHNOLOGY.git
    ```
 2. Open the relevant files to explore the content.
 
