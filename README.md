@@ -1,4 +1,4 @@
-# Cybersecurity Awareness Project
+# Cybersecurity Project
 
 ## Overview
 This repository contains my completed cybersecurity awareness tasks assigned during my internship with **RD-INFRO-TECHNOLOGY**. The tasks demonstrate my ability to identify, mitigate, and educate users about various cybersecurity threats.
