@@ -15,6 +15,11 @@ This repository contains my completed cybersecurity awareness tasks assigned dur
 ## Technologies Used
 - Nessus for vulnerability scanning
 - Gophishing for phishing awareness
+- Bitwarden for password management
+- Cortex for incident response planning
+- Cisco firewalls for network segmentation
+- WireShark and kali linux for penetration testing
+- ELK stack (Elasticsearch, logstash, kibana) for threat hunting
 - Security best practices and research
 
 ## How to Use
