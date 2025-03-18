@@ -30,7 +30,7 @@ This repository contains my completed cybersecurity awareness tasks assigned dur
 2. Open the relevant files to explore the content.
 
 ## Contact
-For any inquiries or further discussion, feel free to reach out via GitHub or whatsapp - +2349057609686.
+For any inquiries or further discussion, feel free to reach out via GitHub, Email - anthonyconrad93@gmail.com or whatsapp - +2349057609686.
 
 ---
 
